@@ -9,11 +9,11 @@ backgroundOrder:
 - 16
 - 45
 - 49
-- 19
-- 18
 - 9
 - 51
 - 50
+- 18
+- 19
 - 53
 - 10
 - 20
@@ -7043,7 +7043,7 @@ stateBlinks:
 - - flag_44
   - true
 - - flag_50
-  - false
+  - true
 - - flag_51
   - true
 - - flag_52
@@ -7058,7 +7058,9 @@ stateColorsNameList:
 - - background_16
   - darkBlue
 - - background_18
-  - red
+  - white
+- - background_19
+  - white
 - - background_20
   - white
 - - background_21
@@ -7074,7 +7076,9 @@ stateColorsNameList:
 - - background_51
   - orange
 - - background_52
-  - orange
+  - turquoise
+- - background_53
+  - white
 - - background_9
   - orange
 tabSetup:
