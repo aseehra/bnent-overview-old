@@ -591,7 +591,6 @@ presets:
         - 90
         - 237
         - 286
-        - 306
         - 310
         - 324
         - 337
@@ -847,7 +846,6 @@ presets:
         - 1727
         - 1728
         - 1729
-        - 1731
 - - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: Hostile</color>'
   - - - alwaysShownStates
       - []
