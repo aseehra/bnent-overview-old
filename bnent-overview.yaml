@@ -3654,7 +3654,6 @@ presets:
         - 90
         - 237
         - 286
-        - 306
         - 310
         - 324
         - 337
@@ -3909,7 +3908,6 @@ presets:
         - 1727
         - 1728
         - 1729
-        - 1731
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: FW</color>'
   - - - alwaysShownStates
       - []
@@ -3937,7 +3935,6 @@ presets:
         - 226
         - 237
         - 286
-        - 306
         - 310
         - 319
         - 324
@@ -4216,7 +4213,6 @@ presets:
         - 1727
         - 1728
         - 1729
-        - 1731
 - - '<color=0xFFFF6666><fontsize=12>✥</fontsize> -- Ships only</color>'
   - - - alwaysShownStates
       - []
