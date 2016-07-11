@@ -1,0 +1,25 @@
+TAB PRESETS:
+------------
+pilot/agent interactable: 21
+kill right on him: 53
+limited engagement: 52
+sec status  0: 10
+sec status -5: 9
+bad standing: 18
+bounty: 20
+excellent standing: 15
+good standing: 16
+neutral standing: 17
+no standing: 48
+terrible standing: 19
+criminal: 51
+suspect: 50
+ally: 49
+war target: 13
+war with militia: 44
+alliance: 14
+corporation: 12
+fleet: 11
+militia: 45
+wreck viewed: 36
+wreck empty: 37
