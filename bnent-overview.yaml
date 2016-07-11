@@ -7127,5 +7127,3 @@ tabSetup:
 userSettings:
 - - applyOnlyToShips
   - false
-- - overviewBroadcastsToTop
-  - true
