@@ -6967,7 +6967,7 @@ shipLabels:
   - - - post
       - '</fontsize><color=0xFFFFFFFF><b>- '
     - - pre
-      - '<fontsize=0>'
+      - '<fontsize=10>'
     - - state
       - 1
     - - type
