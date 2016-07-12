@@ -6988,47 +6988,47 @@ shipLabels:
       - null
 - - alliance
   - - - post
-      - ']</color></fontsize>'
+      - '</color> '
     - - pre
-      - '<fontsize=12><color=0xFFFEFF6F> ['
+      - '<color=0xFFFFB900>'
     - - state
       - 1
     - - type
       - alliance
 - - corporation
   - - - post
-      - ']</b></fontsize>'
+      - ''
     - - pre
-      - ' <fontsize=10><b>['
+      - ''
     - - state
       - 1
     - - type
       - corporation
 - - pilot name
   - - - post
-      - ']</fontsize>'
+      - '</b></color> '
     - - pre
-      - '
-
-        <fontsize=10> ['
+      - '] <color=0xFFFFFFFF><b>'
     - - state
       - 1
     - - type
       - pilot name
 - - ship name
   - - - post
-      - '</fontsize><color=0xFFFFFFFF><b>- '
+      - '
+
+<fontsize=11><color=0xFFFEFF6F><b>'
     - - pre
-      - '<fontsize=10>'
+      - ''
     - - state
       - 1
     - - type
       - ship name
 - - ship type
   - - - post
-      - '</u></b></color></fontsize>'
+      - '</b></color></fontsize> ['
     - - pre
-      - '<fontsize=12><color=0xFFFEBB64><b> <u>'
+      - '<fontsize=11><color=0xFFF5DEB3><b>'
     - - state
       - 1
     - - type
